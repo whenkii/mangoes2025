@@ -1,0 +1,30 @@
+1. Run the following command to increase the buffer size:
+	git config http.postBuffer 524288000
+
+2. Create GIT repository 
+
+	git init
+
+3. Add below to .gitignore
+
+	node_modules/
+	webserver/node_modules/
+	webserver/instaclient/
+
+4. GIT setup to push to remote
+
+	git add .
+	git commit -m “Initial pull”
+	git add remote origin <gitrepository link>
+
+
+Getting tokens:
+Uaername : whenkii
+password is token : Account > Organisation -> developer settings
+
+
+USeful Commands:
+— To remove files from cache/staging 
+git rm -r --cached .
+git add .
+git commit -m "Apply .gitignore changes"
