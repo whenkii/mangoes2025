@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.d026a171.css",
-    "main.js": "/static/js/main.1c059cbf.js",
+    "main.js": "/static/js/main.00194d91.js",
     "static/js/453.c6fdc489.chunk.js": "/static/js/453.c6fdc489.chunk.js",
     "static/media/Venkat_Paynow.jpeg": "/static/media/Venkat_Paynow.3f2ae230ed444c7227a7.jpeg",
     "static/media/mallika-about.jpeg": "/static/media/mallika-about.88020cf7c75d7c97a5b8.jpeg",
     "static/media/mango.svg": "/static/media/mango.6455e1763f9ac26f0f67cd3b2f6706b1.svg",
     "index.html": "/index.html",
     "main.d026a171.css.map": "/static/css/main.d026a171.css.map",
-    "main.1c059cbf.js.map": "/static/js/main.1c059cbf.js.map",
+    "main.00194d91.js.map": "/static/js/main.00194d91.js.map",
     "453.c6fdc489.chunk.js.map": "/static/js/453.c6fdc489.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d026a171.css",
-    "static/js/main.1c059cbf.js"
+    "static/js/main.00194d91.js"
   ]
 }
