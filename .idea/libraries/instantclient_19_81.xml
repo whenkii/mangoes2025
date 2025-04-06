@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="instantclient_19_81">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webserver/instantclient_19_8.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

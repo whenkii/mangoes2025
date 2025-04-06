@@ -1,0 +1,32 @@
+{
+  "value": {
+    "companyName": "GARDEN ROOTS PTE. LTD",
+    "uniquePayID": "UEN : 201713208M",
+    "bankDetails": ["GardenRoots Pte Ltd", "OCBC Account# : 712177963001"],
+    "whatsappNo": "81601289",
+    "bankIfscSwiftCodeType": "SWIFT",
+    "swiftIfscCodeValue": "SWIFT",
+    "payemntOptions": [
+      { "type": "PayNow", "value": "qrcode" },
+      { "type": "Bank A/C", "value": "bank" },
+      { "type": "PayLater", "value": "later" }
+    ]
+  }
+}
+
+{
+  "value": {
+    "companyName": "GARDEN ROOTS PTE. LTD",
+    "uniquePayID": "UEN : 201713208M",
+    "bankDetails": ["GardenRoots Pte Ltd", "OCBC Account# : 712177963001"],
+    "whatsappNo": "81601289",
+    "bankIfscSwiftCodeType": "SWIFT",
+    "swiftIfscCodeValue": "SWIFT",
+    "payemntOptions": [
+      { "type": "PayNow", "value": "qrcode" },
+      { "type": "Bank A/C", "value": "bank" },
+      { "type": "PayLater", "value": "later" }
+    ]
+  },
+  "proc":"sp_log_transactions"
+}

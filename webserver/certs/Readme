@@ -1,0 +1,11 @@
+These keys are generated from zeroSSL
+
+Since certs are readable and begins with "-----BEGIN", jusr renaming to pem is good enough.
+
+Renaemd as below.
+
+1. private.key -> key.pem
+2. certificate.crt => cert.pem
+
+
+
